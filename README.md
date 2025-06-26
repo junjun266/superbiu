@@ -34,10 +34,10 @@
 套餐 |  流量 | 价格 
 :-: |  :-: | :-: 
 Small biu 50G | 50G |11块/月 
-Mini Biu 100G | 100 |16块/月 
-Mini Biu 200G | 200 |24块/月 
-Medium Biu 300G | 300 |33块/月，很适合做备用
-Medium Biu 500G | 500 |45块/月，很适合做备用
+Mini Biu 100G | 100G |16块/月 
+Mini Biu 200G | 200G |24块/月 
+Medium Biu 300G | 300G |33块/月，很适合做备用
+Medium Biu 500G | 500G |45块/月，很适合做备用
 Medium Biu 1T | 1000G |85块/月，很适合做备用
 super Pack 2T | 2000G |155块/月，很适合做备用
 独享节点定制 | 定制 |99块起，需要联系客服定制
